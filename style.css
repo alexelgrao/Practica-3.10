@@ -1,0 +1,20 @@
+.mediotitulo{
+    font-weight: bold;
+    font-size: large;
+}
+
+.nivel1{
+    list-style-type:circle;
+}
+
+.primerplato{
+    list-style-type: decimal;
+}
+
+.fideua{
+    list-style-type: upper-roman;
+}
+
+.segundoplato{
+    list-style-type:lower-latin ;
+}
